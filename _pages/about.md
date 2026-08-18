@@ -24,8 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Rachel! I'm an interdisciplinary social science researcher and speculative fiction writer interested in the intersections between environmental justice, storytelling, anti-colonial theory, and technology. I spend a lot of time thinking about how to center the on-the-ground realities of frontline communities - those resisting the "first and worst" impacts of climate change - within the environmental movement at large, and how environmental justice organizations use technology to combat environmental justice and foster frontline joy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current work as Research Project Manager for the Frontline Resource Institute (FRI) at Environmental Defense Fund focuses on community-driven research for movement building in the environmental and climate justice space. Previously, I served as a Tom Graff Fellow at EDF, leading FRI's stakeholder coordination, research operations, logistics, grant cycle management, and communications. Check out FRI's website [here](https://www.frontlineresourceinstitute.org/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out via [Linkedin](https://www.linkedin.com/in/rachel-marston-2021/) or email!
+
